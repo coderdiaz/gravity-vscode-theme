@@ -1,4 +1,4 @@
-# [Gravity Theme 🌅](https://github.com/coderdiaz/gravity-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity) [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity)
+# [Gravity Dawn Theme 🌅](https://github.com/coderdiaz/gravity-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity) [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity)
 
 A Visual Studio Code theme for for dawn lovers  with accesible colors ✨
 
