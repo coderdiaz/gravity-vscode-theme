@@ -1,4 +1,4 @@
-# [Gravity Dawn Theme 🌅](https://github.com/coderdiaz/gravity-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity) [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiaz.gravity.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.gravity)
+# [Gravity Dawn Theme 🌅](https://github.com/coderdiaz/gravity-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiazme.gravity-vscode-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiazme.gravity-vscode-theme) [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiazme.gravity-vscode-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiazme.gravity-vscode-theme)
 
 A Visual Studio Code theme for for dawn lovers  with accesible colors ✨
 
@@ -8,7 +8,7 @@ About this theme, thanks to Sarah Drasner (@sdras) for the tips and recommendati
   <h1 align="center">Preview</h1>
 </p>
 
-![Preview](preview.png)
+![Preview](./preview.png)
 
 <p align="center">
   <h2 align="center">Languages</h2>
@@ -18,31 +18,31 @@ About this theme, thanks to Sarah Drasner (@sdras) for the tips and recommendati
   <h3 align="center">HTML</h3>
 </p>
 
-![Preview HTML](previews/html.png)
+![Preview HTML](./previews/html.png)
 
 <p align="center">
   <h3 align="center">Vue</h3>
 </p>
 
-![Preview Vue](previews/vue.png)
+![Preview Vue](./previews/vue.png)
 
 <p align="center">
   <h3 align="center">JavaScript</h3>
 </p>
 
-![Preview JS](previews/js.png)
+![Preview JS](./previews/js.png)
 
 <p align="center">
   <h3 align="center">Python</h3>
 </p>
 
-![Preview Python](previews/python.png)
+![Preview Python](./previews/python.png)
 
 <p align="center">
   <h3 align="center">React</h3>
 </p>
 
-![Preview React](previews/react.png)
+![Preview React](./previews/react.png)
 
 ## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
